@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3b6410b1dab22e8448d5139601fecc64
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabToSpawn: {instanceID: 0}
+  - arCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
