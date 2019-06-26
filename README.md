@@ -6,7 +6,7 @@ Used a 'preload' scene to instantiate managers/controllers.
 This was required to account for the AR Session component that needed to be in every scene but could not persist through scene loads.
 
 # Gameplay
-<video src="Gameplay.m4v" poster="poster.jpg" width="320" height="200" controls preload></video>
+![](gif.gif)
 
 # Unity version
 2019.1.2f1
